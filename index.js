@@ -1,1 +1,1 @@
-import 'baseproject/base.css'
+import '@pritilata/baseproject/base.css'
